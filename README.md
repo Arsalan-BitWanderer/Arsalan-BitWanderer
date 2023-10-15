@@ -8,7 +8,6 @@ My journey so far has led me through the landscapes of Java, C++, Data Structure
 - Proficient in Java, C++, Python, and DSA.
 - Experienced in Android App Development with Java and Flutter.
 - Interning and honing skills in ASP.NET Core and SQL Server.
-- MS Office aficionado.
 
 🌱 **Currently Cultivating:**
 - Continued exploration of emerging technologies.
