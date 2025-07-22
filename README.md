@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Arsalan-BitWanderer
 
-I'm a passionate Computer Engineering student currently in my 7th semester, 
+I'm a passionate Computer Engineering, 
 exploring the realms of technology and software development. 
 My journey so far has led me through the landscapes of Java, C++, Data Structures and Algorithms, Python, Android App Development with Java and Flutter, as well as the realms of ASP.NET Core and SQL Server.
 
